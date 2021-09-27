@@ -1,0 +1,40 @@
+{
+	"name": "shopify2skeleton",
+	"version": "1.0.0",
+	"description": "Skeleton theme for Shopify 2.0",
+	"main": "webpack.config.js",
+	"private": true,
+	"dependencies": {
+	},
+	"devDependencies": {
+		"@babel/core": "^7.15.0",
+		"@babel/plugin-transform-runtime": "^7.15.0",
+		"@babel/preset-env": "^7.15.0",
+		"babel-loader": "^8.2.2",
+		"css-loader": "^6.2.0",
+		"mini-css-extract-plugin": "^2.2.0",
+		"node-sass": "^6.0.1",
+		"postcss-loader": "^6.1.1",
+		"postcss-preset-env": "^6.7.0",
+		"sass-loader": "^12.1.0",
+		"webpack": "^5.51.1",
+		"webpack-cli": "^4.8.0"
+	},
+	"browserslist": [
+		"last 1 version",
+		"not dead",
+		"ie >= 11"
+	],
+	"scripts": {
+		"start": "webpack --mode=development --watch",
+		"watch": "webpack --mode=development --watch",
+		"dev": "webpack --mode=development",
+		"build": "webpack --mode=production"
+	},
+	"repository": {
+		"type": "git",
+		"url": "github.com:trvswgnr/shopify2skeleton.git"
+	},
+	"author": "Travis Aaron Wagner",
+	"license": "MIT"
+}

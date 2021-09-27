@@ -1,0 +1,5 @@
+node_modules
+!assets/
+assets/*
+.DS_STORE
+scratch.*

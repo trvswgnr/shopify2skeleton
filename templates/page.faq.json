@@ -1,0 +1,93 @@
+{
+  "wrapper": "div.content-faq.page-width-sm.py-lg-5",
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "container_width": "page-width-md",
+        "bg_color": "bg-light"
+      }
+    },
+    "16317689767815ece2": {
+      "type": "faq",
+      "blocks": {
+        "16317689767815ece2-0": {
+          "type": "faq",
+          "settings": {
+            "heading": "Some FAQ Heading",
+            "text": "<p>Explain something here<\/p>"
+          }
+        },
+        "49783cc5-1e2f-4528-b822-57cb43c70730": {
+          "type": "faq",
+          "settings": {
+            "heading": "Some FAQ Heading",
+            "text": "<p>Explain something here<\/p>"
+          }
+        },
+        "14d594fb-1a05-402f-9866-9de66de125fc": {
+          "type": "faq",
+          "settings": {
+            "heading": "Some FAQ Heading",
+            "text": "<p>Explain something here<\/p>"
+          }
+        },
+        "98326370-f235-49c2-9e60-f60245afceca": {
+          "type": "faq",
+          "settings": {
+            "heading": "Some FAQ Heading",
+            "text": "<p>Explain something here<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16317689767815ece2-0",
+        "49783cc5-1e2f-4528-b822-57cb43c70730",
+        "14d594fb-1a05-402f-9866-9de66de125fc",
+        "98326370-f235-49c2-9e60-f60245afceca"
+      ],
+      "settings": {
+        "section_heading": "A Good Heading"
+      }
+    },
+    "163176994196e75788": {
+      "type": "faq",
+      "blocks": {
+        "163176994196e75788-0": {
+          "type": "faq",
+          "settings": {
+            "heading": "Some FAQ Heading",
+            "text": "<p>Explain something here<\/p>"
+          }
+        },
+        "fc7f4443-23d3-4e12-8e9e-a5cde74804e3": {
+          "type": "faq",
+          "settings": {
+            "heading": "Some FAQ Heading",
+            "text": "<p>Explain something here<\/p>"
+          }
+        },
+        "adb85a69-0065-4d52-8f15-b8757cc105fd": {
+          "type": "faq",
+          "settings": {
+            "heading": "Some FAQ Heading",
+            "text": "<p>Explain something here<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163176994196e75788-0",
+        "fc7f4443-23d3-4e12-8e9e-a5cde74804e3",
+        "adb85a69-0065-4d52-8f15-b8757cc105fd"
+      ],
+      "settings": {
+        "section_heading": "Another FAQ Section"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16317689767815ece2",
+    "163176994196e75788"
+  ]
+}
